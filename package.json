@@ -1,7 +1,7 @@
 {
   "name": "@npm/graphics",
   "version": "1.0.0",
-  "description": "All the npm SVGs",
+  "description": "All the npm SVGs stuffed into a JSON object",
   "main": "index.json",
   "author": "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com/)",
   "license": "ISC",
