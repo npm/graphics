@@ -1,0 +1,17 @@
+{
+  "name": "@npm/graphics",
+  "version": "1.0.0",
+  "description": "All the npm SVGs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "bulkify": "^1.0.2"
+  },
+  "devDependencies": {
+    "clean-sketch": "^1.0.1"
+  }
+}
