@@ -1,4 +1,4 @@
-# @npm/graphics
+# @npminc/graphics
 
 All the npm SVGs stuffed into a JSON object
 
