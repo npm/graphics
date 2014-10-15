@@ -1,5 +1,5 @@
 {
-  "name": "@npminc/graphics",
+  "name": "@npm/graphics",
   "version": "1.0.1",
   "description": "All the npm SVGs stuffed into a JSON object",
   "main": "index.json",
