@@ -1,5 +1,5 @@
 {
-  "name": "@npm/graphics",
+  "name": "@npminc/graphics",
   "version": "1.0.0",
   "description": "All the npm SVGs stuffed into a JSON object",
   "main": "index.json",
@@ -13,7 +13,10 @@
     "clean-sketch": "^1.0.1",
     "mocha": "^1.21.5"
   },
-  "repository": "https://github.com/npm/graphics",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npm/graphics"
+  },
   "scripts": {
     "build": "node lib/build.js",
     "pretest": "npm run build",
